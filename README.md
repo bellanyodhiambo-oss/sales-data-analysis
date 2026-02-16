@@ -1,20 +1,20 @@
-# Sales Data Analysis 📊
+ Sales Data Analysis 
 
-## Overview
+Overview
 This project analyzes sales data using Python and Pandas.
 
-## Features
+Features
 - Calculates total revenue
 - Groups revenue by product
 - Demonstrates basic data analysis skills
 
-## Technologies Used
+Technologies Used
 - Python
 - Pandas
 
-## Business Insight
+Business Insight
 This project shows how raw sales data can be transformed into revenue insights for decision-making.
 
-## Author
+Author
 Bellany Odhiambo
 
